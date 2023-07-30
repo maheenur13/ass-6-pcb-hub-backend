@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\.bc012a89e316f57d1cc56b28875d3c3a2cc61ce6-audit.json",
+    "files": [
+        {
+            "date": 1690618499430,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\um-2023-29-07-14-error.log",
+            "hash": "2eefbff24949d1c58e0db9745100e65ffc5ed99c7c5cf532cd3359326f50bbc8"
+        },
+        {
+            "date": 1690639398738,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\um-2023-29-07-20-error.log",
+            "hash": "f12356e665e92884e4c85011bd1dc9ec956b6cea8df1cb0351d73f6d1b1153de"
+        },
+        {
+            "date": 1690648739814,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\um-2023-29-07-22-error.log",
+            "hash": "cde96e7898c1cb874639545b9715bf43435c00b1fa0006e24ea96a5c4de357bf"
+        },
+        {
+            "date": 1690661779792,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\um-2023-30-07-02-error.log",
+            "hash": "165992af6953a2ea1bb13f85aa36e7b4889f1c3da35c52eea21bdcc7ba327865"
+        },
+        {
+            "date": 1690705492331,
+            "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\Assignment 6\\blog-demo-backend\\logs\\winston\\errors\\um-2023-30-07-14-error.log",
+            "hash": "851bee3d43be20fc3875d0524eb455858b0cac74dfea9725ff5a574febe6ec5a"
+        }
+    ],
+    "hashType": "sha256"
+}
